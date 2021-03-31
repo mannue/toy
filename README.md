@@ -1,2 +1,5 @@
 # toy
-This is toy project repository of manne.
+- This is toy project repository of manne.
+
+# branch info
+- jenkins
